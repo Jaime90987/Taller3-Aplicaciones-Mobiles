@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Taller3-Jaime-Jaramillo</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="logo_de_la_unigustiniana">Logo de la Unigustiniana</string>
+    <string name="student_code">Código de estudiante</string>
+    <string name="stundet_mail">Correo Institucional</string>
+    <string name="consultar_nota">Consultar Nota</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="volver">Volver</string>
+    <string name="bienvenido">Bienvenido</string>
+</resources>
